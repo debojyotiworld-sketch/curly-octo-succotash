@@ -1,4 +1,4 @@
-# UGCV: Real-Time Human Detection and Tracking 🎯
+# Real-Time Human Detection and Tracking 🎯
 
 A real-time dual-camera web application that utilizes advanced computer vision to detect and track human subjects. Built with **Flask**, **OpenCV**, and **PyTorch** using the state-of-the-art **YOLOv5** object detection model. 
 
